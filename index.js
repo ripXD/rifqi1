@@ -8,12 +8,12 @@
 * MASLENT ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'MASLENT'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_maslent11'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+628165466368'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'RIFQI'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'GADA INSTAGRAM'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6281352574625'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/JsredxazPdoIYrhijmAl94'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'BELUM ADA'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'BELUM ADA'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -1274,7 +1274,7 @@ if (text.includes("!alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah maslent ID
+//Tolonglah bro jangan di ubah ubah rifqi GANZ
 
 
 })
